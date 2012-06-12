@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH///bI\u003d",
+        "filename": "DeviceSettings/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 3624
+      },
+      "writtenOn": "2012-06-12T17:04:29Z",
+      "side": 1,
+      "message": "Maybe change this also to \"Achtergrondverlichting\"",
+      "revId": "f1804ac5e0e88106fd608eb9942c7fa253193b00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH///bE\u003d",
+        "filename": "DeviceSettings/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 3624
+      },
+      "writtenOn": "2012-06-12T17:04:29Z",
+      "side": 1,
+      "message": "Same as above",
+      "revId": "f1804ac5e0e88106fd608eb9942c7fa253193b00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH///bA\u003d",
+        "filename": "DeviceSettings/res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 3624
+      },
+      "writtenOn": "2012-06-12T17:04:29Z",
+      "side": 1,
+      "message": "Same as above",
+      "revId": "f1804ac5e0e88106fd608eb9942c7fa253193b00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
