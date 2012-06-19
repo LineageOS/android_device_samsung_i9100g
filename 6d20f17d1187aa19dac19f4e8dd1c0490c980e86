@@ -16,6 +16,23 @@
       "revId": "6d20f17d1187aa19dac19f4e8dd1c0490c980e86",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9eA\u003d",
+        "filename": "DeviceSettings/res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-19T13:35:53Z",
+      "side": 1,
+      "message": "Beleuchtung einschalten (L12)\nBeleuchtung ausschalten (L13)",
+      "revId": "6d20f17d1187aa19dac19f4e8dd1c0490c980e86",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
