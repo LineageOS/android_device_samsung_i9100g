@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//99c\u003d",
+        "filename": "overlay/packages/apps/Settings/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-03-10T02:20:19Z",
+      "side": 1,
+      "message": "I\u0027m a bad person. :-|",
+      "revId": "65d13ad76723e1a006f851eee0d77d1b3fad97eb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
