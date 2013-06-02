@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iAuZv24",
+        "filename": "DeviceSettings/res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T04:14:47Z",
+      "side": 1,
+      "message": "- Aanraakknoppen",
+      "revId": "b69c9d0fbb10c7edd270a8161543b08a0ec0b3e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
