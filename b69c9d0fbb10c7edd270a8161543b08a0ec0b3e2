@@ -16,6 +16,23 @@
       "revId": "b69c9d0fbb10c7edd270a8161543b08a0ec0b3e2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iC5jcbM",
+        "filename": "DeviceSettings/res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-06-02T17:40:05Z",
+      "side": 1,
+      "message": "Deze moeten we ook nakijken in meerdere devices, ik vind deze huidige benaming toch niet goed.\n\n\"Use Dock USB Audio\"\n\n- USB-geluid van dock",
+      "revId": "b69c9d0fbb10c7edd270a8161543b08a0ec0b3e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
