@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iHHu7O0",
+        "filename": "DeviceSettings/res/values/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-06-03T12:52:34Z",
+      "side": 1,
+      "message": "disable* (lower case)",
+      "revId": "f9dd739c9a1025e3e5738ceb9c90eae7898229bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
