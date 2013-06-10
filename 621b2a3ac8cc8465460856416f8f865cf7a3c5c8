@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iMXHK0Q",
+        "filename": "DeviceSettings/src/com/cyanogenmod/settings/device/VibratorTuningPreference.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-06-10T01:12:23Z",
+      "side": 1,
+      "message": "This is what\u0027s causing the cancel error. We should be putting the original value, not the percentage.",
+      "revId": "621b2a3ac8cc8465460856416f8f865cf7a3c5c8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
