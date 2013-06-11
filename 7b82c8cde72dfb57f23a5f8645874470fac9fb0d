@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iCPdv0I",
+        "filename": "DeviceSettings/res/values-es/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-06-11T12:57:52Z",
+      "side": 1,
+      "message": "@Jorge, \"pantalla táctil\" is too obvious. I preffer \"keys\" only.",
+      "revId": "7b82c8cde72dfb57f23a5f8645874470fac9fb0d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iMPkww4",
+        "filename": "DeviceSettings/res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-06-11T12:57:52Z",
+      "side": 1,
+      "message": "@Jorge, If I say \"Seleccionar la zona en la que se activará la retroiluminación\" I could think that only that zone will be lighted, when It\u0027s a trigger zone only.",
+      "revId": "7b82c8cde72dfb57f23a5f8645874470fac9fb0d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
