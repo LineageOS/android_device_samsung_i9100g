@@ -51,6 +51,24 @@
       "revId": "c1a353cfdaab4ebccdd1f61eef24c83691f3ff8d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iJmqvhg",
+        "filename": "DeviceSettings/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-06-13T15:09:07Z",
+      "side": 1,
+      "message": "Sélectionner la ou les zones qui, au toucher, activent le rétroéclairage des boutons tactiles",
+      "parentUuid": "iPleWnU",
+      "revId": "c1a353cfdaab4ebccdd1f61eef24c83691f3ff8d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
