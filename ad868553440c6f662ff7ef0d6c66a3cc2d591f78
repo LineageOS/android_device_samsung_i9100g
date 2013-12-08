@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_23d3723a",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-12-08T14:20:49Z",
+      "side": 1,
+      "message": "Put this in omap4-common, both i9100g and Tab 2 need it.",
+      "revId": "ad868553440c6f662ff7ef0d6c66a3cc2d591f78",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
